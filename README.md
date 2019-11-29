@@ -1,2 +1,2 @@
 # django-ecommerce
-eCommerce website in Django
+eCommerce website in Django 2
